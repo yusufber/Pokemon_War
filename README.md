@@ -24,7 +24,7 @@ Pokémon verileri, [PokeAPI](https://pokeapi.co/) üzerinden gerçek verilerle �
 └── config.py  # Discord token'ının tutulduğu dosya (oluşturulmalı)
 ```
 
-🧩 Kullanılan Teknolojiler
+##🧩 Kullanılan Teknolojiler
 
 Python 3.10+
 
@@ -35,7 +35,7 @@ aiohttp (asenkron HTTP istekleri için)
 PokeAPI (Pokémon verilerini almak için)
 
 
-⚙️ Kurulum
+##⚙️ Kurulum
 
 Depoyu klonla:
 
@@ -62,7 +62,7 @@ python main.py
 ```
 
 
-🕹️ Komutlar
+##🕹️ Komutlar
 | Komut                | Açıklama                                         |
 | -------------------- | ------------------------------------------------ |
 | `!go`                | Yeni bir Pokémon oluşturur.                      |
@@ -72,7 +72,7 @@ python main.py
 
 
 
-⚔️ Pokémon Türleri
+##⚔️ Pokémon Türleri
 | Tür                  | Özellik                                                       |
 | -------------------- | ------------------------------------------------------------- |
 | **Normal (Pokemon)** | Temel saldırı ve savunma istatistiklerine sahip.              |
@@ -80,11 +80,11 @@ python main.py
 | **Wizard**           | Beslenme süresi daha kısa, savaşta kalkan kullanma şansı var. |
 
 
-📸 Örnek Görsel
+##📸 Örnek Görsel
 Her Pokémon’un resmi PokeAPI’den çekilir ve Discord mesajına gömülü olarak gönderilir:
 
 
-🧾 Lisans
+##🧾 Lisans
 
 Bu proje MIT lisansı altında paylaşılmıştır.
 Detaylar için LICENSE
